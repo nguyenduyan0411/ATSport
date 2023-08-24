@@ -1,0 +1,16 @@
+# file to ignore if you want to use git to track your eclipse workspace metadata directory. 
+.metadata/*
+
+
+/.metadata/
+*.log
+*.log
+.metadata/.plugins/org.eclipse.m2e.logback/0.log
+.metadata/.log
+*.index
+*.dat
+.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat
+*.component
+.metadata/.plugins/org.eclipse.m2e.logback/0.log
+.metadata/.log
+*.xmi
